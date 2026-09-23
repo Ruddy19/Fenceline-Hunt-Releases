@@ -3,7 +3,7 @@
 Official release mirror for **Fenceline-Hunt**, the offline fenceline mapping app for Android.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ruddy19/Fenceline-Hunt/main/docs/branding/emblem-512.png" width="140" alt="Fenceline-Hunt emblem">
+  <img src="https://raw.githubusercontent.com/Ruddy19/Fenceline-Hunt/main/docs/branding/emblem-transparent.png" width="140" alt="Fenceline-Hunt emblem">
 </p>
 
 ## Download
