@@ -1,7 +1,28 @@
 # Fenceline-Hunt — Releases
 
-Download the latest version of **Fenceline-Hunt** from the [Releases](../../releases) page, or update directly in the app via **Settings ▸ Software Update**.
+Official release mirror for **Fenceline-Hunt**, the offline fenceline mapping app for Android.
 
-This repository exists only to distribute app releases. The application source code remains in the private main repository.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ruddy19/Fenceline-Hunt/main/docs/branding/emblem-512.png" width="140" alt="Fenceline-Hunt emblem">
+</p>
 
-_Fenceline-Hunt — Field Tracking & Property Management_
+## Download
+
+Grab the latest APK from the [Releases page](../../releases):
+
+| Version | Notes |
+|---|---|
+| [v1.3.10](../../releases/tag/v1.3.10) | How-to-buy section, dedicated contact email |
+| [v1.3.9](../../releases/tag/v1.3.9) | Feature-pin edit menu, menu-recovery fixes |
+| [v1.3.8](../../releases/tag/v1.3.8) | Offline-basemap navigation fixes |
+
+Install: download the APK on your Android device and open it (allow "install unknown apps" if prompted).
+
+## Updates inside the app
+
+The app checks this mirror automatically — go to **Menu → Settings → Check for updates**.
+
+## Source & licensing
+
+- Source code: [Ruddy19/Fenceline-Hunt](https://github.com/Ruddy19/Fenceline-Hunt)
+- To buy a license: email **fenceline.hunt@gmail.com** — or from inside the app: **Menu → Settings → License → "How to buy a key"**.
