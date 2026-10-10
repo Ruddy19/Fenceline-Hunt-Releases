@@ -12,6 +12,9 @@ The newest version is always the **top entry on the [Releases page](../../releas
 open that page on your Android phone and tap the `.apk` to install. Every version
 keeps its own release notes there.
 
+For a quick overview of the app — what it does, how to install it and how licensing
+works — see the **[Fenceline-Hunt site](https://ruddy19.github.io/Fenceline-Hunt-Releases/)**.
+
 Install: download the APK on your Android device and open it. The first time,
 Android asks you to allow installing apps from this source — tap **Settings** on
 that prompt, switch on **Allow from this source**, then go back and tap **Install**.
@@ -36,8 +39,12 @@ the top and keeps every saved map, fenceline, trip and cull log.
 
 ## Licensing
 
-- To buy a licence, email **fenceline.hunt@gmail.com**, or use
-  **Menu → Settings → License → "How to buy a key"** inside the app.
+- **Free to try:** 3 trips — a trip counts once it runs 30 minutes. After that,
+  recording trips, capturing offline basemaps and exporting data are locked until
+  the app is activated.
+- **A licence is $29.95, one-off.** The key does not expire. To buy it, email
+  **fenceline.hunt@gmail.com** (card, PayPal or bank transfer) and the key comes
+  back by email, or use **Menu → Settings → License → "How to buy a key"** in the app.
 - A licence key is issued to a specific email address, and verification is fully
   offline; an internet connection is needed only the first time a key is validated.
 
