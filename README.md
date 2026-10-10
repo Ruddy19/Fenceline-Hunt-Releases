@@ -8,8 +8,9 @@ Official release mirror for **Fenceline-Hunt**, the offline fenceline mapping ap
 
 ## Download
 
-The latest version is **v1.3.46**. Every version and its release notes live on the
-[Releases page](../../releases) — always grab the newest one there.
+The newest version is always the **top entry on the [Releases page](../../releases)** —
+open that page on your Android phone and tap the `.apk` to install. Every version
+keeps its own release notes there.
 
 Install: download the APK on your Android device and open it. The first time,
 Android asks you to allow installing apps from this source — tap **Settings** on
@@ -20,9 +21,12 @@ that prompt, switch on **Allow from this source**, then go back and tap **Instal
 
 ## User guide
 
-**[Fenceline-Hunt User Guide (PDF)](Fenceline-Hunt-User-Guide.pdf)** — how to record a
-trip, draw or record a fenceline, log culls, use offline basemaps, and every setting
-explained. Current for v1.3.46.
+**[Fenceline-Hunt User Guide (PDF)](../../releases/latest/download/Fenceline-Hunt-User-Guide.pdf)**
+— how to record a trip, draw or record a fenceline, log culls, use offline basemaps,
+and every setting explained.
+
+That link always serves the guide attached to the newest release, so it stays in step
+with the version you are running. It is also listed as a file on each release page.
 
 ## Updates inside the app
 
