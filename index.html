@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fenceline-Hunt — offline fenceline mapping for Android</title>
+<meta name="description" content="Fenceline-Hunt is an offline-first Android app for mapping fencelines, recording drive and walk trips, logging culls and navigating private and public land without a signal.">
+<style>
+  :root {
+    --green: #4c7a2f;
+    --green-dark: #3d6226;
+    --ink: #1b2118;
+    --muted: #555;
+    --line: #d7ddd0;
+    --bg: #f4f8ee;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    color: var(--ink);
+    line-height: 1.6;
+    background: #fff;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 0 20px; }
+  header { text-align: center; padding: 40px 0 8px; }
+  header img { width: 100%; max-width: 420px; height: auto; margin-bottom: 18px; }
+  h1 { font-size: 2rem; margin: 0 0 6px; }
+  .tagline { color: var(--green); font-size: 1.15rem; margin: 0 0 4px; font-weight: 600; }
+  .sub { color: var(--muted); margin: 0 0 24px; }
+  .cta {
+    display: inline-block; background: var(--green); color: #fff;
+    text-decoration: none; font-weight: 700; font-size: 1.05rem;
+    padding: 14px 28px; border-radius: 8px;
+  }
+  .cta:hover { background: var(--green-dark); }
+  .cta-note { display: block; color: var(--muted); font-size: .85rem; margin-top: 8px; }
+  h2 { font-size: 1.25rem; margin: 34px 0 8px; }
+  ol, ul { padding-left: 20px; }
+  li { margin-bottom: 6px; }
+  a { color: var(--green-dark); }
+  .note {
+    border-left: 3px solid #9CCC65; background: var(--bg);
+    padding: 10px 14px; margin: 14px 0; font-size: .95rem;
+  }
+  .features { display: grid; gap: 10px; grid-template-columns: 1fr; }
+  .features div { border: 1px solid var(--line); border-radius: 6px; padding: 10px 14px; }
+  .features b { display: block; }
+  footer {
+    border-top: 1px solid var(--line); margin-top: 40px; padding: 18px 0 40px;
+    color: var(--muted); font-size: .9rem;
+  }
+  @media (min-width: 620px) { .features { grid-template-columns: 1fr 1fr; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <img src="emblem-transparent.png" alt="Fenceline-Hunt emblem">
+    <h1>Fenceline-Hunt</h1>
+    <p class="tagline">Offline fenceline mapping for Android</p>
+    <p class="sub">Map fencelines, record drive and walk trips, log culls and navigate
+      private and public land — with no signal.</p>
+    <p>
+      <a class="cta" href="https://github.com/Ruddy19/Fenceline-Hunt-Releases/releases/latest">Download the latest APK</a>
+      <span class="cta-note">Free to try · Android 8.0+ · around 5&nbsp;MB</span>
+    </p>
+  </header>
+
+  <h2>Install</h2>
+  <ol>
+    <li>Tap <b>Download the latest APK</b> on your Android phone — the newest version is
+      always the top entry on the releases page.</li>
+    <li>Open the downloaded file. The first time, Android asks you to allow installing
+      apps from this source: tap <b>Settings</b>, switch on <b>Allow from this source</b>,
+      then go back and tap <b>Install</b>.</li>
+    <li>If Google Play Protect offers an "App scan recommended" step, let the scan finish
+      before retrying — a scan that times out can report "App not installed".</li>
+  </ol>
+  <p>Updates install over the top and keep every saved map, fenceline, trip and cull log.</p>
+
+  <h2>What it does</h2>
+  <div class="features">
+    <div><b>Works offline</b>Download offline basemaps and keep mapping with no signal.</div>
+    <div><b>Fencelines</b>Draw them, or record them while you drive or walk the line.</div>
+    <div><b>Trips and culls</b>Record trips with distance and duration, and log culls in the field.</div>
+    <div><b>Property and public land</b>Keep your properties organised and download public-land hunting maps.</div>
+  </div>
+
+  <h2>User guide</h2>
+  <p><a href="https://github.com/Ruddy19/Fenceline-Hunt-Releases/releases/latest/download/Fenceline-Hunt-User-Guide.pdf">Fenceline-Hunt
+    User Guide (PDF)</a> — recording trips, drawing and recording fencelines, logging
+    culls, offline basemaps, and every setting explained. This link always serves the
+    guide for the newest release.</p>
+
+  <h2>Updates</h2>
+  <p>The app checks this release channel itself: open <b>Menu → Settings → Software Update
+    → Check for Updates</b>, or tap the update banner when it appears.</p>
+
+  <h2>Licensing</h2>
+  <p>Fenceline-Hunt is free to try. To keep using it, buy a licence key by emailing
+    <a href="mailto:fenceline.hunt@gmail.com">fenceline.hunt@gmail.com</a>, or use
+    <b>Menu → Settings → License → "How to buy a key"</b> inside the app.</p>
+  <p>A key is issued to a specific email address and is verified entirely offline — you
+    only need a connection the first time a key is validated.</p>
+
+  <div class="note">
+    The application source lives in a private repository. This site is the public
+    distribution channel and holds release artifacts only.
+  </div>
+
+  <footer>
+    Fenceline-Hunt · <a href="https://github.com/Ruddy19/Fenceline-Hunt-Releases/releases">All releases</a> ·
+    <a href="https://github.com/Ruddy19/Fenceline-Hunt-Releases">Repository</a>
+  </footer>
+
+</div>
+</body>
+</html>
