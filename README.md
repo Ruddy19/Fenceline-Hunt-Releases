@@ -39,9 +39,10 @@ the top and keeps every saved map, fenceline, trip and cull log.
 
 ## Licensing
 
-- **Free to try:** 3 trips — a trip counts once it runs 30 minutes. After that,
-  recording trips, capturing offline basemaps and exporting data are locked until
-  the app is activated.
+- **Free to try:** 3 trips — each trip you start uses one of the three, however
+  short it is; discard it and the use comes back. After that, recording trips,
+  capturing offline basemaps and exporting data are locked until the app is
+  activated.
 - **A licence is $29.95, one-off.** The key does not expire. To buy it, email
   **fenceline.hunt@gmail.com** (card, PayPal or bank transfer) and the key comes
   back by email, or use **Menu → Settings → License → "How to buy a key"** in the app.
