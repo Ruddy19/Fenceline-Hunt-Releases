@@ -30,11 +30,11 @@ with its APK, notes and user guide:
 
 | Version | Release |
 | --- | --- |
+| v1.3.61 | [v1.3.61 — Stopping a trip, without the wait](../../releases/tag/v1.3.61) |
 | v1.3.60 | [v1.3.60 — The wind check, at a glance](../../releases/tag/v1.3.60) |
 | v1.3.59 | [v1.3.59 — The wind, before it changes](../../releases/tag/v1.3.59) |
 | v1.3.58 | [v1.3.58 — Wind, gloves and hills](../../releases/tag/v1.3.58) |
 | v1.3.57 | [v1.3.57 — Updates you can trust](../../releases/tag/v1.3.57) |
-| v1.3.56 | [v1.3.56 — Where your scent goes, and what the walking cost](../../releases/tag/v1.3.56) |
 
 ## User guide
 
