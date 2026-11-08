@@ -34,7 +34,7 @@ with its APK, notes and user guide:
 | v1.3.59 | [v1.3.59 — The wind, before it changes](../../releases/tag/v1.3.59) |
 | v1.3.58 | [v1.3.58 — Wind, gloves and hills](../../releases/tag/v1.3.58) |
 | v1.3.57 | [v1.3.57 — Updates you can trust](../../releases/tag/v1.3.57) |
-| v1.3.52 | [v1.3.52 — the record button is the trial door](../../releases/tag/v1.3.52) |
+| v1.3.56 | [v1.3.56 — Where your scent goes, and what the walking cost](../../releases/tag/v1.3.56) |
 
 ## User guide
 
