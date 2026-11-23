@@ -30,11 +30,11 @@ with its APK, notes and user guide:
 
 | Version | Release |
 | --- | --- |
+| v1.3.65 | [v1.3.65 — A guide that matches the screen](../../releases/tag/v1.3.65) |
 | v1.3.64 | [v1.3.64 — A tidier Settings screen](../../releases/tag/v1.3.64) |
 | v1.3.63 | [v1.3.63 — One pin can stand for several animals](../../releases/tag/v1.3.63) |
 | v1.3.62 | [v1.3.62 — The trial stays spent, and the guide catches up](../../releases/tag/v1.3.62) |
 | v1.3.61 | [v1.3.61 — Stopping a trip, without the wait](../../releases/tag/v1.3.61) |
-| v1.3.60 | [v1.3.60 — The wind check, at a glance](../../releases/tag/v1.3.60) |
 
 ## User guide
 
